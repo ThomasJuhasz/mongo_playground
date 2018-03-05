@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "ms-azuretools.vscode-cosmosdb",
+    "esbenp.prettier-vscode",
+    "seansobey.jasmine-problem-matcher"
+  ]
+}
