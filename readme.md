@@ -17,4 +17,7 @@ npm run test
 ```
 
 Don't forget to start your mongo service!
+
+```bash
 C:\Program Files\MongoDB\Server\3.6\bin\mongod.exe
+```
